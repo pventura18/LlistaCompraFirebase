@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778044861913",
+    "project_id": "projecteprovam08",
+    "storage_bucket": "projecteprovam08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778044861913:android:9bb24a6d882355dba57dc8",
+        "android_client_info": {
+          "package_name": "cat.institutmontilivi.llistacomprafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJWCA4TdCg3Vm69fzIFbRrhl_MaKtlX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778044861913:android:889ce219fd58a42ba57dc8",
+        "android_client_info": {
+          "package_name": "cat.institutmontivi.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJWCA4TdCg3Vm69fzIFbRrhl_MaKtlX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
